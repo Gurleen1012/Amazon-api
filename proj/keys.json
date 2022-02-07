@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "new-sp-api",
+  "private_key_id": "19e82e61641e1a2e32ca031a4ececb1e3679dafd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCojDGBF65dL/Lp\ndf1eXX+kXkUjJjVUhakkmjmxO1HOOULrHxgS6onSmFhc2V/AznGzxB9e6h8s+ImM\nL5vt4TStvV64ZDF0ckkCDP4st99ZkQZlW+cRq+r7OMs5bCSKdRfaUu93c3shjFxy\nAp2C7AFHYxAtXSqeKSmCqzDkHRLqN13Kw8iLNnQxlBupfT/BYey+INSjnPL2PyoV\nRgcbFlLFGKGtthzh9vtOUfF2V8iaUEoskQXrgKf/jgpqt66CzoCCEcRuyOKQ4jen\nhQy2Lo1pqid5Zw2pqwqulwDYr0v6FT4f6snMMNLLq9B7hB/DhnXLPCmHlaCphjE+\nFPBGknYRAgMBAAECggEAAIKGDtApxp3jw/mHpe6t+WsQlfniXOpXl+UAiiz2AyPw\ntCHgsoPznUe5MrS0obJuLR9JggG+zOXGkr49IEPXYzQosnGZJbNHzcIIzc1Tl2OF\nK67SvN6yhAaItNiDJskSZKZuE4Qtqe0RBYZFADWjDlp6HM0EmTxiJANND0+YNE2r\n0FMlghbGVOVTFS4ofrBn9wbNeXLTXZTuWGoTE/IcUdr8TugPhGlEzikrRgau5CCi\nOLq8HPsmULGxixgLS2Y8PpDnznXnAFflyKeph/RfJr/symQ0PqLTjtscvNfj4yYK\nIoTLa/Y4tBe4wwiD65PiyGFORFcxlRR6OpRw5d4gXQKBgQDdflWTmUcHce+96Gg4\nG+dFNyiNvzXv1UDdTKthWg2nICVUMdoF1YcX4vjlE5DYuD6D1Y93s8OD7u/7ECb+\nhY8FoJR8NwcgvU8G5INEN87SWzOu/8aY9Lza4eTPgXfam8Yk04EyzhOXpwo+26hx\ni2nIjche6m+1mvkYCVEIHqucVQKBgQDCzkHfak5wFFfibc4a4+mB1/njyJMoDOsG\nSN5zXgGMX8tiSLMwlo8+3qEfgNsPHmfXTbNP9OXBzhqvv9G4IgLtGC0QOCICEvqn\nK6v+k85SoJqTLw+nmMC9m2glIXZrL0Ve9AyxdLqOWVkfA+YSLL2fqSlaFPeH60k6\ntLUV69MuzQKBgHLT5Bm5BRHfB6M0sZMlJCjGB8g0sQm9TPttnAvEW/+gsrmLfrQ3\nlunTSaW5FwbDveUq+k3cbCgh31gRb6XUJ+mK7m/XN2LJwgaYwVTEefykO48mGxeB\nCceQBMdvH2u+BmNhI0HrhEzC1JTx28nBtP28Q3yxnWhRB4JmkhPbkqxhAoGANTKw\nSHu2aeMUUPBdjXhZ5yx8wFig3xoQAIpbvTOZxqTOXMuvq4AiJDAV3g2JROqvvtso\nMZiWOcO4A/ClK9yV4fttKvW5S8m1C3vgn0fr2yKis7jxVHphgCX1XdZyiTjCf/iz\nkq5m18LMlKyy4pm3OueuNDxvkH2PZOm+Xfslk60CgYAlP6aBFE+txSbluOvXDgMZ\nuWdOFvt+5ICa2eQ6HUatgQnIxKLJxkvotJsN8/uCwdhp/ShPTMwkwZXWPUkerdgI\nYZrgB1wfjiMoDcbjEKK+M58tp1b7unw1vRrsOWqnskfj8MyHuZBVUnGEbw/+/H8d\nh3NVS/2U6P43BW0GUd3Fpg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "new-amazon-api@new-sp-api.iam.gserviceaccount.com",
+  "client_id": "117974512581236325355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-amazon-api%40new-sp-api.iam.gserviceaccount.com"
+}
